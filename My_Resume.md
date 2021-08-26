@@ -7,7 +7,7 @@ Eliza Merritt
 ###### Boone, North Carolina, USA
 
 <!--- here is how you add a comment --->
-<br/>
+
 
 ###Research Interests
 Geography, Geographic Information Systems, Cartography, Climate, Freshwater Stream and River Ecology

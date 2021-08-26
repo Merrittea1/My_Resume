@@ -5,7 +5,7 @@
 
 ---------------------------------------------------------
 
-![headshot](headshot.jpeg)
+![headshot](https://ibb.co/WPBQhsG)
 
 #### Student   |   Department of Geography and Planning
 ###### Appalachian State University
@@ -31,6 +31,7 @@ Accelerated Admissions Program
 
 ### Relavant Work Experience
 **AppAqua Research**
+
 [About Appaqua](http://appaqua.appstate.edu)
 ###### 2021 - Present
 * Collecting feild data from data sondes in streams around the South Fork of the New River
@@ -38,7 +39,9 @@ Accelerated Admissions Program
 
 
 **GIS Analyst - Internship**
+
 [Resource Data Inc.](http://https://www.resourcedata.com/)
+
 [North Carolina Wildlife Resource Commission](https://www.ncwildlife.org/about)
 ###### Summer 2021
   * Working with GIS data in QGIS to identify new angling areas in 26 counties in Western North Carolina included in the Public Mountain Trout Water (PMTW) program by NC Wildlife Resource Commission

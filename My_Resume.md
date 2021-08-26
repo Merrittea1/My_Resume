@@ -1,6 +1,7 @@
 Eliza Merritt
 ==============
 
+
 #### Student
 ###### Department of Geography and Planning
 ###### Appalachian State University
@@ -24,6 +25,8 @@ Accelerated Admissions Program
 
 ### Work Experience
 **AppAqua Research**
-2021 - current
+https://appaqua.appstate.edu/ [appaqua](http://appaqua.appstate.edu)
+2021 - Current
+
 
 ![headshot](headshot.jpeg)

@@ -1,7 +1,7 @@
-<p align="center">
-Eliza Merritt
-==============
-</p>
+
+
+# Eliza Merritt
+
 
 ---------------------------------------------------------
 
@@ -32,7 +32,7 @@ Accelerated Admissions Program
 ### Relavant Work Experience
 **AppAqua Research**
 [About Appaqua](http://appaqua.appstate.edu)
-######2021 - Present
+###### 2021 - Present
 * Collecting feild data from data sondes in streams around the South Fork of the New River
 * Monitoring water quality using depth, pH, connectivity and temperature <br/> <br/>
 
@@ -40,7 +40,7 @@ Accelerated Admissions Program
 **GIS Analyst - Internship**
 [Resource Data Inc.](http://https://www.resourcedata.com/)
 [North Carolina Wildlife Resource Commission](https://www.ncwildlife.org/about)
-######Summer 2021
+###### Summer 2021
   * Working with GIS data in QGIS to identify new angling areas in 26 counties in Western North Carolina included in the Public Mountain Trout Water (PMTW) program by NC Wildlife Resource Commission
   * Analyzing the effects of privatization of land and splitting of land parcels on riparian habitats and native trout populations.
   * Idenfitying areas in need of conservation in PMTW counties

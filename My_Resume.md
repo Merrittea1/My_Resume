@@ -5,7 +5,7 @@
 
 ---------------------------------------------------------
 
-![AppState](img/logoooo.jpg)
+![AppState](logoooo.jpg)
 
 
 #### Student   |   Department of Geography and Planning

@@ -5,7 +5,8 @@
 
 ---------------------------------------------------------
 
-![headshot](https://ibb.co/WPBQhsG)
+![AppState](img/logoooo.jpg)
+
 
 #### Student   |   Department of Geography and Planning
 ###### Appalachian State University
